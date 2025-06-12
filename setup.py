@@ -23,7 +23,7 @@ def get_requirements(filepath:str) -> List[str]:
     return requirements
         
 setup(
-    name='GenAIProject-Financial Research Analysis Tool',
+    name='mlproject',
     version='0.0.1',
     author='Goutam',
     author_email='gmnaik96@gmail.com',
