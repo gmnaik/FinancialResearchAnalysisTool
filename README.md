@@ -1,1 +1,1 @@
-# Generative AI Tool - Financial Research Analysis Tool
+# Generative AI Tool - Financial Research Analysis Tool.
